@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7puvkvlogxuma1rr?svg=true)](https://ci.appveyor.com/project/MKSInc/ahj-hw-2-dom-3-in-memory-sorting)
 ### [Gh-page](https://mksinc.github.io/AHJ-hw.-2-DOM.-3-In-Memory-Sorting/)
 # 2. Домашнее задание к лекции «DOM»
 
